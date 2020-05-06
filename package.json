@@ -1,0 +1,19 @@
+{
+  "name": "testmodule",
+  "version": "1.0.0",
+  "description": "This is a test module, to see how pulling down from github works",
+  "main": "testModule.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matara57/testModule.git"
+  },
+  "author": "matara57",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matara57/testModule/issues"
+  },
+  "homepage": "https://github.com/matara57/testModule#readme"
+}
